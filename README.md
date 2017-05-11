@@ -56,24 +56,28 @@
 
 
 # Implementation 
-![implementation](./images/implementation.png)
+![implementation](./images/implementation.JPG)
+![implementation1](./images/implementation1.JPG)
+![implementation2](./images/implementation2.JPG)
+![implementation3](./images/implementation3.JPG)
+![implementation4](./images/implementation4.JPG)
 
-> 두 개의 스크린(대형 스크린, 스마트 폰)은 기능에 따라 두개의 서버를 통해 서로 연결된다. 
 
 
 
 ----------
 # Prototype 
-> <b>한 동아리 MT에서 동아리 구성원들을 알리는 것을 주제로 약 100명을 대상으로 서비스 테스트 </b>
+> **<b>한 동아리 MT에서 동아리 구성원들을 알리는 것을 주제로 약 100명을 대상으로 서비스 테스트 </b>**
 > 
-> ![test](./images/test1.jpg)
+> ![test](./images/test1.JPG)
 
-><b> 개인 스마트폰으로 스크린에 있는 게임을 참여하여 모두가 함께 즐길 수 있다</b>
+>**<b>개인 스마트폰으로 스크린에 있는 게임에 참여하여 모두가 함께 즐길 수 있다</b>**
 > ![prototype](./images/prototype.png)
 
 
 # Feedback 
 
-> 게임에 참여한 대부분의 사람이 게임을 통해 동아리 구성원을 더 잘 알게되었다고 답함.
->  
-> 퀴즈와 같은 정형화된 게임보다는 이상형 월드컵 처럼 다수에 의해 답이 정해질 수 있는 유동적인 게임을 더 선호함.  
+
+-  게임에 참여한 대부분의 사람이 게임을 통해 동아리 구성원을 더 잘 알게되었다고 답함.
+
+- 퀴즈와 같은 정형화된 게임보다는 이상형 월드컵 처럼 다수에 의해 답이 정해질 수 있는 유동적인 게임을 더 선호함.  
