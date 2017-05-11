@@ -66,9 +66,9 @@
 # Prototype 
 > <b>한 동아리 MT에서 동아리 구성원들을 알리는 것을 주제로 약 100명을 대상으로 서비스 테스트 </b>
 > 
-> ![test](./images/test1.jpg)
+> ![test](./images/test1.JPG)
 
-><b> 개인 스마트폰으로 스크린에 있는 게임을 참여하여 모두가 함께 즐길 수 있다</b>
+><b> 개인 스마트폰으로 스크린에 있는 게임 참여하여 모두가 함께 즐길 수 있다</b>
 > ![prototype](./images/prototype.png)
 
 
